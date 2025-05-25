@@ -4,7 +4,7 @@ I'm IoT and Backend developer
 var Moclauq = dev{
   langs: "ru", "eng", "pl?"
   devLangs: "Golang", "C", "Js",
-  devices: "Mi 9t Pro", "Logitech MX Ergo", "Pine64 PineWatch"
+  devices: "Mi 9t Pro", "Logitech MX Ergo", "Pine64 PineTime"
 }
 ```
 > "Programming is not a science. Programming is a craft."<br>
